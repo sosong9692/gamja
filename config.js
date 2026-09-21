@@ -29,7 +29,7 @@ const CONFIG = {
     name: "소은영",
     nameEn: "Bride",
     father: "소진덕",
-    mother: "",
+    mother: "이경자",
     fatherDeceased: false,
     motherDeceased: false
   },
@@ -69,9 +69,9 @@ const CONFIG = {
       { role: "어머니", name: "박경란", bank: "국민은행", number: "457001-01-147488" }
     ],
     bride: [
-      { role: "신부", name: "김영희", bank: "하나은행", number: "000-000-000000" },
-      { role: "아버지", name: "김사장", bank: "기업은행", number: "000-000-000000" },
-      { role: "어머니", name: "이부인", bank: "농협은행", number: "000-000-000000" }
+      { role: "신부", name: "소은영", bank: "카카오뱅크", number: "3333-02-8002328" },
+      { role: "아버지", name: "소진덕", bank: "기업은행", number: "000-000-000000" },
+      { role: "어머니", name: "이경자", bank: "농협은행", number: "000-000-000000" }
     ]
   },
 
