@@ -13,34 +13,34 @@
 
 const CONFIG = {
   // ── 초대장 열기 ──
-  useCurtain: true,  // 초대장 열기 화면 사용 여부 (true: 사용, false: 바로 본문 표시)
+  useCurtain: false,  // 초대장 열기 화면 사용 여부 (true: 사용, false: 바로 본문 표시)
 
   // ── 메인 (히어로) ──
   groom: {
-    name: "신랑",
+    name: "송찬",
     nameEn: "Groom",
-    father: "아버지",
-    mother: "어머니",
+    father: "송을호",
+    mother: "박경란",
     fatherDeceased: false,
     motherDeceased: false
   },
 
   bride: {
-    name: "신부",
+    name: "소은영",
     nameEn: "Bride",
-    father: "아버지",
-    mother: "어머니",
+    father: "소진덕",
+    mother: "",
     fatherDeceased: false,
     motherDeceased: false
   },
 
   wedding: {
-    date: "2026-05-09",
-    time: "13:00",
-    venue: "예식장 이름",
-    hall: "그랜드홀 5층",
-    address: "서울특별시 강남구 테헤란로 123",
-    tel: "02-1234-5678"
+    date: "2027-02-14",
+    time: "12:00",
+    venue: "DMC타워웨딩",
+    hall: "펠리체홀 4층",
+    address: "서울특별시 마포구 성암로 189",
+    tel: "0507-1318-9308"
   },
 
   // ── 인사말 ──
@@ -57,8 +57,8 @@ const CONFIG = {
 
   // ── 오시는 길 ──
   mapLinks: {
-    kakao: "https://map.kakao.com/",
-    naver: "https://map.naver.com/"
+    kakao: "https://kko.to/jU6DpfiDVS",
+    naver: "https://naver.me/5CW7vgsq"
   },
 
   // ── 마음 전하실 곳 ──
