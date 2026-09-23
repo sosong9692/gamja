@@ -1354,3 +1354,27 @@ a {
     transform: none !important;
   }
 }
+
+/* 메인 사진(히어로) 영역 글자 흰색 변경 */
+.hero__label,
+.hero__names,
+.hero__date,
+.hero__venue,
+.countdown__label,
+.countdown__number,
+.countdown__unit,
+.countdown__sep {
+  color: #ffffff !important;
+}
+
+.countdown__item {
+  background: rgba(0, 0, 0, 0.3) !important;
+  backdrop-filter: blur(4px);
+}
+
+.hero__names,
+.hero__date,
+.hero__venue,
+.hero__label {
+  text-shadow: 0px 1px 4px rgba(0, 0, 0, 0.4);
+}
