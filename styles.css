@@ -785,6 +785,7 @@ a {
   color: var(--color-text-light);
   white-space: pre-line;
   margin-bottom: var(--spacing-xl);
+  word-break: keep-all;
 }
 
 .story__photos {
